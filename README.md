@@ -1,4 +1,7 @@
-# test coverage for  [network-address (v1.1.2)](https://github.com/mafintosh/network-address)  [![npm package](https://img.shields.io/npm/v/npmtest-network-address.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-network-address) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-network-address.svg)](https://travis-ci.org/npmtest/node-npmtest-network-address)
+# npmtest-network-address
+
+#### test coverage for  [network-address (v1.1.2)](https://github.com/mafintosh/network-address)  [![npm package](https://img.shields.io/npm/v/npmtest-network-address.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-network-address) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-network-address.svg)](https://travis-ci.org/npmtest/node-npmtest-network-address)
+
 #### get the local network address of your machine
 
 [![NPM](https://nodei.co/npm/network-address.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/network-address)
